@@ -23,7 +23,7 @@ UserManagementAPI is a RESTful API built with ASP.NET Core that provides user re
 | SQL Server             | Relational Database            |
 | JWT Authentication     | Secure login & authorization   |
 | Swagger / Swashbuckle  | API documentation              |
-| AutoMapper             | DTO and entity mapping         |
+| ManualMappers             | DTO and entity mapping         |
 | Git & GitHub           | Version control                |
 
 ---
